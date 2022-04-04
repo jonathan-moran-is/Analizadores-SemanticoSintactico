@@ -1,7 +1,8 @@
-# compiladores_interpretes
-Trabajo de la Universidad Politécnica de Durango de la materia de compiladores e interpretes.
+# Alumno
+Jonathan Salomon Moran Aguilar
 
-# Integrantes: 
-* Manuel Alberto Ortiz Torres
-* Gael Alejandr Valdez González
-* Joel Andres Violante Madrid
+# Matricula
+1903151567
+
+# Materia
+Compiladores e Interpretes
